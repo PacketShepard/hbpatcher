@@ -6,6 +6,11 @@ A tool for patching Nintendo Switch homebrew (`.nro` files) to use the new ABI, 
 
 **This tool may or may not work correctly.** It is not the responsibility of the author of this tool or the author of the homebrew. Users should obtain the latest version of homebrew recompiled against the latest libnx if possible over using this tool. This tool is only an assist for unmaintained homebrew to reduce the impact of kernel changes.
 
+## Accessing from the Browser (Runs in your local browser cache using Javascript)
+
+GitHub IO hosted static build <br />
+https://packetshepard.github.io/hbpatcher/
+
 ## Instructions
 
 1. Drag and drop your homebrew `.nro` file into the patcher interface.
